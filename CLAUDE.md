@@ -5,16 +5,18 @@ This repo is Rushabh's dating wingman workspace. Read this first in every sessio
 ## Who he is
 - **Name:** Rushabh Patel (signs off as "Rusha" sometimes; use **Rushabh** on Hinge)
 - **Age:** 27, male, looking for women
-- **City:** Mumbai, born and raised there
+- **City:** Mumbai, born and raised. Grew up in Kandivali, now lives in Dahisar.
+- **Height:** 6'0"
+- **Languages:** Gujarati, Hindi, English, Marathi
 - **Work:** Runs the family business, a specialty paper company (paper products for multiple specialty uses and applications)
 - **Looking for:** Marriage material, but open to fun. Hinge intention: "Long-term, open to short".
 
 ## Personality and interests
 - Friends tease him for **always being busy**. He sees himself as funny.
-- **Football:** plays and watches it, sporty his whole childhood
-- **Ran a full marathon** (42.2 km)
-- **Reads a lot**, into **philosophy**
-- **Can dance**; **hosted/anchored his college cultural fest**
+- **Football:** plays and watches it, **Arsenal** supporter, sporty his whole childhood
+- **Ran the full Tata Mumbai Marathon** (42.2 km)
+- **Reads a lot**, into **philosophy**. Most impactful books: *Men Are from Mars, Women Are from Venus* and *Never Split the Difference*.
+- **Dances Garba and Bollywood**, loves bathroom singing; **hosted/anchored his college cultural fest**
 - Wants to **learn horse riding**
 - **Hot take:** 12 AM birthday wishes are overrated. Wish people in the morning or evening instead.
 - **Perfect Sunday:** beach, walk, fresh air, good coffee, light food, then a competitive game like bowling
@@ -30,5 +32,8 @@ This repo is Rushabh's dating wingman workspace. Read this first in every sessio
 - Keep it honest; don't invent facts about him.
 - Push conversations toward a date within ~8–12 messages.
 
+## Partner preferences
+- Religion and community matter to him and his family (exact religion/community still to confirm)
+
 ## Still unknown (ask when useful)
-Area of Mumbai, height, languages, religion/community preferences, partner age range, favourite football club, favourite book or philosopher, which marathon.
+Exact religion/community preference, partner age range, distance he's willing to travel.
