@@ -12,12 +12,15 @@ Why it works: a light opinion she can disagree with, which starts a conversation
 
 Why it works: it shows culture (Garba), discipline (a full marathon) and humour in one line, which suits the community-minded girls you want. It also hands her an easy question: "Are you a Garba person?"
 
-**3. Typical Sunday**
-> Marine Drive walk, sea breeze, good coffee, light food. Then a game of bowling that I take far too seriously. Loser picks dinner.
+**3. The way to win me over is**
+> Recommend a book I haven't read, out-dance me at Garba (good luck), or teach me horse riding. It's been on my list forever.
 
-Why it works: she can picture herself in it, and "loser picks dinner" is a soft invitation (Phil Jones: make the next step easy).
+Why it works: it gives her three easy ways to start a chat, and the "(good luck)" adds playful challenge.
 
 ## Alternates (swap in to test after ~1 week)
+
+**Typical Sunday**
+> Marine Drive walk, sea breeze, good coffee, light food. Then a game of bowling that I take far too seriously. Loser picks dinner.
 
 **A fact about me that surprises people**
 > I run a family business that sells specialty paper. Yes, like The Office. No, I'm not Michael Scott. Debatable whether I'm Jim or Dwight.
@@ -57,7 +60,7 @@ Keep it under 20 seconds and smile while you record. You can hear the smile.
 
 ## Layout (alternating photos and prompts)
 
-Photo 1 (kurta smile), Photo 2 (vineyard laugh), **Prompt 1 (birthday)**, Photo 3 (Kasol prayer flags), Photo 4 (café), **Prompt 2 (Garba/marathon)**, Photo 5 (friends in snow), Photo 6 (kurta pavilion laugh), **Prompt 3 (Sunday)**, Voice prompt
+Photo 1 (kurta smile), Photo 2 (vineyard laugh), **Prompt 1 (birthday)**, Photo 3 (Kasol prayer flags), Photo 4 (café), **Prompt 2 (Garba/marathon)**, Photo 5 (friends in snow), Photo 6 (kurta pavilion laugh), **Prompt 3 (win me over)**, Voice prompt
 
 ## Profile fields
 
