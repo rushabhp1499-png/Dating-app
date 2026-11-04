@@ -13,11 +13,17 @@ Why it works: a light opinion she can disagree with, which starts a conversation
 Why it works: everyone knows The Office, it says "stable businessman" without bragging, and "Jim or Dwight?" is a ready-made reply for her.
 
 **3. Typical Sunday**
-> Beach walk, fresh air, good coffee, light food. Then a game of bowling that I take far too seriously. Loser picks dinner.
+> Marine Drive walk, sea breeze, good coffee, light food. Then a game of bowling that I take far too seriously. Loser picks dinner.
 
 Why it works: she can picture herself in it, and "loser picks dinner" is a soft invitation (Phil Jones: make the next step easy).
 
 ## Alternates (swap in to test after ~1 week)
+
+**I bet you can't**
+> Out-stubborn me. I've run a full marathon, 42.2 km, and finished out of pure refusal to quit. My knees still haven't forgiven me.
+
+**My most irrational fear**
+> Someone wishing me happy birthday at 12:00:01 AM and expecting me to be awake and grateful.
 
 **The way to win me over is**
 > Recommend me a book I haven't read, beat me at bowling (good luck), or teach me horse riding. It's been on my list forever.
@@ -37,6 +43,10 @@ Use **"Give me travel tips for..."** or **"My most irrational fear..."**, record
 > "Ladies and gentlemen, welcome to the most anticipated event of the year: you, swiping right on me. Please hold your applause." *(laugh)*
 
 Keep it under 20 seconds and smile while you record. You can hear the smile.
+
+## Ready answers
+
+- **"Where's the mountain photo?"** Kasol. Went with the boys, got snowed on, and one of them is mid-snowball in the background of photo 5. Did I get hit? That story is a first-date story.
 
 ## Layout (alternating photos and prompts)
 
