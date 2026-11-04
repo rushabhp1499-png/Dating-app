@@ -2,8 +2,8 @@
 
 ## Final 3 (use these)
 
-**1. Unpopular opinion**
-> 12 AM birthday wishes are overrated. Nobody is at their best at midnight, not even the cake. Wish me at 10 AM with a good coffee like a civilised person.
+**1. A shower thought I recently had**
+> Midnight birthday wishes are the only time it's socially acceptable to wake someone up just to remind them they're a year older.
 
 Why it works: a light opinion she can disagree with, which starts a conversation (Voss: people love to correct you).
 
