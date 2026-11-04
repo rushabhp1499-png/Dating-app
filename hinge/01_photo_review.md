@@ -1,25 +1,22 @@
-# Hinge Photo Review
+# Hinge Photos: Final Lineup
 
-## Recommended order
+Picked from ~21 photos (the original 6 from the ZIP plus 15 sent in chat).
 
 | Slot | Photo | Why |
 |---|---|---|
-| 1 | `03_green_kurta` (cropped) | Best photo in the set. Clear face, real smile, eye contact, soft background. The lead photo decides most likes. |
-| 2 | `01_vineyard_laugh` | Genuine laugh, full body, a giant wine bottle and a sunflower field behind you. It shows personality and gives her an easy comment to send. |
-| 3 | `02_cafe_full_body` | Well dressed and confident. Shows style. |
-| 4 | `06_mountain_travel` (cropped) | Travel and outdoors. Says "I go places." |
-| 5 | `04_black_jacket_outdoors` (cropped) | Good outfit, but sunglasses and looking away, so it goes lower. |
-| 6 | **Replace** `05_white_tee_portrait` | Looks like a much younger you (around 20, not 27). Swap in a photo with friends or family, or doing an activity. |
+| 1 | Kurta, arms crossed, smiling at camera | Best face shot: eye contact, real smile, sharp, soft background. The lead photo drives most likes. |
+| 2 | Vineyard laugh (tighter version) | A genuine laugh and a giant wine bottle make an easy, fun opener for her. |
+| 3 | Himalaya peak with prayer flags | A wow backdrop and you're looking at the camera. Triggers "where is this??" comments. |
+| 4 | Café, linen shirt and Chelsea boots | Shows your style and that you have your life together. |
+| 5 | Friends in the snow (cropped to portrait) | **Social proof.** You're clearly visible, smiling, and the guy throwing a snowball in the back is a gift of an opener. |
+| 6 | Kurta under the wooden pavilion, laughing | A candid laugh to end on warmth. |
 
-## Problems with the current set
+## Rules applied
+- Max 2 photos per outfit or shoot. The green puffer appears in 5 photos, so only 2 made it (slots 3 and 5).
+- 4 of 6 show your face clearly with a smile. The old set had 2.
+- Dropped: sunglasses shots, the 2019 Delhi photo (date stamp, too old), the white tee (looks ~20), the pink velvet chair, and duplicates.
 
-1. **4 of 6 photos have no eye contact, and 2 have sunglasses.** Women swipe on eyes and smiles. Only #01 and #03 show you smiling.
-2. **No social proof.** All six are solo, posed shots. One photo with friends, at a wedding, or with family adds warmth and shows people like being around you. Make sure you're obvious in it.
-3. **No hobby or activity shot.** Cooking, playing a sport, an instrument, with a dog, at a concert: anything that starts a conversation.
-4. **Borders.** Photos 03, 04, 05 and 06 had blurred or white bars baked in, which waste screen space on Hinge. The cropped versions fix this.
-
-## Wishlist for a replacement photo (pick one)
-
-- Candid with friends, laughing, you in the middle or clearly visible
-- Doing something: cooking, sport, trek, playing with a pet or nephew/niece
-- A chest-up photo looking at the camera and smiling, in daylight (a second strong face shot)
+## Bench (swap in to A/B test after ~1 week)
+- Snow, half-body, big smile at camera: a strong alternative for slot 3
+- Navy suit, yellow chair: good marriage signal, but the pose reads bored. A standing, smiling suit photo would beat it.
+- Mountain camp, sitting on the railing
