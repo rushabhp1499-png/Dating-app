@@ -49,11 +49,16 @@ Why it works: it turns a flaw into a green flag. It says "I'm driven" and "you'l
 
 ## Voice prompt
 
-**Prompt: "Two truths and a lie"** (recommended)
-> "Okay. Two truths and a lie. One: I've run the full Tata Mumbai Marathon. Two: I hosted my college cultural fest, mic in hand, the whole thing. Three: I have never, ever sung in the shower. *(pause)* Guess the lie. Hint: my neighbours already know."
+**Prompt: "I'll pick the topic if you start the conversation"** (recommended)
+> "Deal. Here's the topic: vada pav or dabeli. *(pause)* Choose carefully. I'm a Kandivali boy, and I take this very seriously."
 
-**Backup prompt: "My simple pleasures"**
-> "Football on a weekday evening. Garba nights during Navratri. A book that messes with my head a little. And singing in the shower like nobody's listening. *(pause)* Spoiler: somebody's always listening."
+Why: it's fresh (no repeats from the written prompts), it's very Mumbai, the dabeli nod lands with Gujarati girls, and replying is effortless: she just picks one.
+
+**Backup: "I geek out on"**
+> "Paper. Yes, actually. I run a family business in specialty paper, so I know far more about paper than any normal person should. Ask me about it on a date. Actually, don't. We'll be there all night."
+
+**Backup: "My most irrational fear"**
+> "Arsenal top of the league in February. I've seen this movie before. I know how it ends." *(laugh)*
 
 **Recording tips**
 - 15 to 20 seconds. Speak a little slower than normal.
