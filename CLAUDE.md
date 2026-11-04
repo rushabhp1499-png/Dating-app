@@ -25,6 +25,8 @@ This repo is Rushabh's dating wingman workspace. Read this first in every sessio
 ## Profile status
 - Final 6 photos and order: `hinge/01_photo_review.md`
 - Prompts, voice prompt, layout: `hinge/02_prompts.md`
+- Self-serve opener templates and reply playbook: `hinge/03_opener_playbook.md`
+- He does not want to send screenshots for every girl; Claude cannot access or operate Hinge. Use the playbook and only handle tricky chats.
 
 ## How to help him
 - Openers must be **specific to her profile** (one photo or prompt), playful, short, ending in an easy hook or question.
