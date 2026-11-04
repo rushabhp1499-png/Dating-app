@@ -50,15 +50,15 @@ Why it works: it turns a flaw into a green flag. It says "I'm driven" and "you'l
 ## Voice prompt
 
 **Prompt: "I'll pick the topic if you start the conversation"** (recommended)
-> "Deal. Here's the topic: vada pav or dabeli. *(pause)* Choose carefully. I'm a Kandivali boy, and I take this very seriously."
+> "Deal. Topic: who were you at ten years old? *(pause)* I was a sports-crazy kid from Kandivali. Your turn."
 
-Why: it's fresh (no repeats from the written prompts), it's very Mumbai, the dabeli nod lands with Gujarati girls, and replying is effortless: she just picks one.
+Why: it's about **her** and **you**, it's warm and nostalgic, and it signals someone who cares about where people come from, which fits a marriage-minded profile. Childhood stories turn into long conversations.
 
-**Backup: "I geek out on"**
-> "Paper. Yes, actually. I run a family business in specialty paper, so I know far more about paper than any normal person should. Ask me about it on a date. Actually, don't. We'll be there all night."
+**Backup: "The key to my heart is"**
+> "Honestly? Someone who asks good questions and actually listens to the answers. *(pause)* So go on. Ask me something."
 
-**Backup: "My most irrational fear"**
-> "Arsenal top of the league in February. I've seen this movie before. I know how it ends." *(laugh)*
+**Backup: "I'll pick the topic if you start the conversation"**
+> "Deal. Topic: the most spontaneous thing you've ever done. *(pause)* I'll tell you mine after you tell me yours."
 
 **Recording tips**
 - 15 to 20 seconds. Speak a little slower than normal.
