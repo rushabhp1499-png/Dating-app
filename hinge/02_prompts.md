@@ -12,10 +12,10 @@ Why it works: a light opinion she can disagree with, which starts a conversation
 
 Why it works: it shows culture (Garba), discipline (a full marathon) and humour in one line, which suits the community-minded girls you want. It also hands her an easy question: "Are you a Garba person?"
 
-**3. The way to win me over is**
-> Recommend a book I haven't read, out-dance me at Garba (good luck), or teach me horse riding. It's been on my list forever.
+**3. We'll get along if**
+> You can handle a guy whose friends call him "always busy", but who always makes time for the people who matter.
 
-Why it works: it gives her three easy ways to start a chat, and the "(good luck)" adds playful challenge.
+Why it works: it turns a flaw into a green flag. It says "I'm driven" and "you'll be a priority" in one line, which is exactly what marriage-minded girls look for.
 
 ## Alternates (swap in to test after ~1 week)
 
@@ -38,8 +38,8 @@ Why it works: it gives her three easy ways to start a chat, and the "(good luck)
 **The way to win me over is**
 > Recommend me a book I haven't read, beat me at bowling (good luck), or teach me horse riding. It's been on my list forever.
 
-**We'll get along if**
-> You don't mind that my friends call me "always busy". When I make time for someone, I mean it.
+**The way to win me over is**
+> Recommend a book I haven't read, out-dance me at Garba (good luck), or teach me horse riding. It's been on my list forever.
 
 **I'm looking for**
 > Someone to be silly with on a Tuesday and build a life with eventually. Bonus if you'll play football with me or at least pretend to enjoy watching it.
@@ -60,7 +60,7 @@ Keep it under 20 seconds and smile while you record. You can hear the smile.
 
 ## Layout (alternating photos and prompts)
 
-Photo 1 (kurta smile), Photo 2 (vineyard laugh), **Prompt 1 (birthday)**, Photo 3 (Kasol prayer flags), Photo 4 (café), **Prompt 2 (Garba/marathon)**, Photo 5 (friends in snow), Photo 6 (kurta pavilion laugh), **Prompt 3 (win me over)**, Voice prompt
+Photo 1 (kurta smile), Photo 2 (vineyard laugh), **Prompt 1 (birthday)**, Photo 3 (Kasol prayer flags), Photo 4 (café), **Prompt 2 (Garba/marathon)**, Photo 5 (friends in snow), Photo 6 (kurta pavilion laugh), **Prompt 3 (always busy)**, Voice prompt
 
 ## Profile fields
 
