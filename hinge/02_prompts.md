@@ -49,16 +49,13 @@ Why it works: it turns a flaw into a green flag. It says "I'm driven" and "you'l
 
 ## Voice prompt
 
-**Prompt: "I'll pick the topic if you start the conversation"** (recommended)
-> "Deal. Topic: who were you at ten years old? *(pause)* I was a sports-crazy kid from Kandivali. Your turn."
+**Prompt: "I'll pick the topic if you start the conversation"** (recommended, ~15-18 sec)
+> "Deal. Here's the topic: what would your friends warn me about before a first date with you? *(pause)* Mine would say: 'He's funny, he's competitive, and if bowling comes up, just let him win. Trust us, it's easier for everyone.' *(laugh)* So go on. What would yours say?"
 
-Why: it's about **her** and **you**, it's warm and nostalgic, and it signals someone who cares about where people come from, which fits a marriage-minded profile. Childhood stories turn into long conversations.
+Why: it's funny, it shows a self-aware side of you, and she answers by revealing something about **herself**, playfully. Every answer gives you a natural follow-up.
 
-**Backup: "The key to my heart is"**
-> "Honestly? Someone who asks good questions and actually listens to the answers. *(pause)* So go on. Ask me something."
-
-**Backup: "I'll pick the topic if you start the conversation"**
-> "Deal. Topic: the most spontaneous thing you've ever done. *(pause)* I'll tell you mine after you tell me yours."
+**Backup: "My most irrational fear"** (~15 sec)
+> "That we match, the conversation is great, and then I find out you send seven-minute voice notes. *(pause)* Actually, no, that's fine. I'll listen to all of it. Just add timestamps. *(laugh)* So, honestly: are you a voice-note person or a text person?"
 
 **Recording tips**
 - 15 to 20 seconds. Speak a little slower than normal.
