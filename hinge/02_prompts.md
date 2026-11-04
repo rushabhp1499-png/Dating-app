@@ -49,10 +49,17 @@ Why it works: it turns a flaw into a green flag. It says "I'm driven" and "you'l
 
 ## Voice prompt
 
-Use **"Give me travel tips for..."** or **"My most irrational fear..."**, recorded in your college-fest anchor voice. Something like:
-> "Ladies and gentlemen, welcome to the most anticipated event of the year: you, swiping right on me. Please hold your applause." *(laugh)*
+**Prompt: "Two truths and a lie"** (recommended)
+> "Okay. Two truths and a lie. One: I've run the full Tata Mumbai Marathon. Two: I hosted my college cultural fest, mic in hand, the whole thing. Three: I have never, ever sung in the shower. *(pause)* Guess the lie. Hint: my neighbours already know."
 
-Keep it under 20 seconds and smile while you record. You can hear the smile.
+**Backup prompt: "My simple pleasures"**
+> "Football on a weekday evening. Garba nights during Navratri. A book that messes with my head a little. And singing in the shower like nobody's listening. *(pause)* Spoiler: somebody's always listening."
+
+**Recording tips**
+- 15 to 20 seconds. Speak a little slower than normal.
+- Smile while you talk. It changes your voice.
+- Record in a quiet room, phone about 20 cm from your mouth.
+- Don't aim for perfect. Do 3 to 4 takes and keep the most natural one, laugh included.
 
 ## Ready answers
 
