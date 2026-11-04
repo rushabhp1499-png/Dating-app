@@ -33,7 +33,9 @@ This repo is Rushabh's dating wingman workspace. Read this first in every sessio
 - Push conversations toward a date within ~8–12 messages.
 
 ## Partner preferences
-- Religion and community matter to him and his family (exact religion/community still to confirm)
+- Religion and community matter to him and his family. Looking for **Gujarati** girls.
+- **Age range:** 25–29
+- **Plan:** free Hinge (no premium), so only a handful of likes per day. Every like must go with a personalised comment.
 
 ## Still unknown (ask when useful)
-Exact religion/community preference, partner age range, distance he's willing to travel.
+Distance he's willing to travel (suggested 20–25 km from Dahisar).
