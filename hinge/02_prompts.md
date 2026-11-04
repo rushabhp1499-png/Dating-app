@@ -47,15 +47,17 @@ Why it works: it turns a flaw into a green flag. It says "I'm driven" and "you'l
 **My simple pleasures**
 > Football on a weekday evening, a book that wrecks my brain a little, and sea breeze on a Sunday.
 
-## Voice prompt
+## Voice prompt (RECORDED, live)
 
-**Prompt: "I'll pick the topic if you start the conversation"** (recommended, ~15-18 sec)
-> "Deal. Here's the topic: what would your friends warn me about before a first date with you? *(pause)* Mine would say: 'He's funny, he's competitive, and if bowling comes up, just let him win. Trust us, it's easier for everyone.' *(laugh)* So go on. What would yours say?"
-
-Why: it's funny, it shows a self-aware side of you, and she answers by revealing something about **herself**, playfully. Every answer gives you a natural follow-up.
-
-**Backup: "My most irrational fear"** (~15 sec)
+**Prompt: "My most irrational fear"**
 > "That we match, the conversation is great, and then I find out you send seven-minute voice notes. *(pause)* Actually, no, that's fine. I'll listen to all of it. Just add timestamps. *(laugh)* So, honestly: are you a voice-note person or a text person?"
+
+**Replies when she answers:**
+- "Voice notes": "Okay, I respect the commitment. But I'm holding you to the timestamps rule."
+- "Text": "A woman of efficiency. Tell me your stance on paragraph texts vs five separate messages."
+- "Both / depends": "Diplomatic. I'm guessing voice notes are reserved for the really good gossip?"
+
+**Not used (backup):** "I'll pick the topic": what would your friends warn me about before a first date with you?
 
 **Recording tips**
 - 15 to 20 seconds. Speak a little slower than normal.

@@ -23,6 +23,8 @@ This repo is Rushabh's dating wingman workspace. Read this first in every sessio
 - **Travel:** Kasol (Himachal) in the snow with friends; Sula Vineyards (giant wine bottle photo)
 
 ## Profile status
+- **Live prompts:** (1) A shower thought I recently had: midnight birthday wishes; (2) I'm convinced that: Garba is cardio + marathon; (3) We'll get along if: "always busy" but makes time for the people who matter. **Voice:** My most irrational fear: seven-minute voice notes / timestamps.
+- He prefers prompts that are generic, funny and spark conversation about her or him. Avoid food, Arsenal and shower-singing topics.
 - Final 6 photos and order: `hinge/01_photo_review.md`
 - Prompts, voice prompt, layout: `hinge/02_prompts.md`
 - Self-serve opener templates and reply playbook: `hinge/03_opener_playbook.md`
