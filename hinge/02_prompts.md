@@ -50,10 +50,10 @@ Keep it under 20 seconds and smile while you record. You can hear the smile.
 
 ## Layout (alternating photos and prompts)
 
-Photo 1 (kurta), Photo 2 (vineyard), **Prompt 1 (birthday)**, Photo 3 (café), Photo 4 (mountain), **Prompt 2 (paper/Office)**, Photo 5 (jacket), Photo 6 (suit or best new photo), **Prompt 3 (Sunday)**, Voice prompt
+Photo 1 (kurta smile), Photo 2 (vineyard laugh), **Prompt 1 (birthday)**, Photo 3 (Kasol prayer flags), Photo 4 (café), **Prompt 2 (paper/Office)**, Photo 5 (friends in snow), Photo 6 (kurta pavilion laugh), **Prompt 3 (Sunday)**, Voice prompt
 
 ## Profile fields
 
 - **Job:** Director, family business (specialty paper). Add the company name only if you're comfortable with that.
 - **Dating intentions:** "Life partner" or "Long-term, open to short". The second is more honest for "marriage material but also fun" and gets more matches.
-- **Interests:** Football, Reading, Philosophy, Dancing, Beaches, Bowling
+- **Interests:** Football, Running, Reading, Philosophy, Dancing, Beaches, Bowling
