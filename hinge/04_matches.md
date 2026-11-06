@@ -4,7 +4,7 @@ Keep each girl's facts straight. Mixing up details (e.g. the wrong company) is t
 
 | Name | Key facts | Status / next step |
 |---|---|---|
-| **D** | Gujarati, did 9 nights of Garba in college, now busy with office. Works at **Morgan Stanley**, Legal & Compliance. | Chatting well. **Ask for coffee now** (Garba nights / weekend line). |
+| **D** | Gujarati, did 9 nights of Garba in college, now busy with office. Works at **Morgan Stanley**, Legal & Compliance. | Asked for coffee Sunday; she said "Omg such direct flirts :p" and that Sunday is Diwali (receptive). Reschedule to after Diwali; pin down a day. |
 | **Dhriti** | Works at **JP Morgan Chase** (data architect). Left a job without a backup. Funny one who takes care of her friends; emotionally intelligent. | Opener: "plot twist" line |
 | **Kinjal** | Murder mystery / Bollywood / period drama podcast prompt; passenger princess on long drives; loves listening. | Opener: "which episode first?" |
 | **Moksha** | Hates horror but loves psychological thrillers; never tried dabeli; loves dogs, aliens, galaxies, travel. | Opener: horror vs thrillers. Save dabeli for the date ask. |
