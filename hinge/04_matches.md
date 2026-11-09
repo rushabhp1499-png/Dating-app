@@ -4,7 +4,7 @@ Keep each girl's facts straight. Mixing up details (e.g. the wrong company) is t
 
 | Name | Key facts | Status / next step |
 |---|---|---|
-| **D** | Gujarati, did 9 nights of Garba in college, now busy with office. Works at **Morgan Stanley**, Legal & Compliance. | Asked for coffee Sunday; she said "Omg such direct flirts :p" and that Sunday is Diwali (receptive). Reschedule to after Diwali; pin down a day. Knows Kandivali/Dahisar East well (likely local); matches his cheesy Hindi humour ("I'm on the same level"). Next: get her Instagram, lock the date. |
+| **D (Daivee, Insta daivee_18)** | Gujarati, did 9 nights of Garba in college, works at **Morgan Stanley**, Legal & Compliance. Knows Kandivali/Dahisar East. Matches his cheesy Hindi humour. Gets "hungryyy"; hates crowds. Her restaurant list: Sagar Chinese, Mexichino, East Asia, Umami. He doesn't like bhindi. | **2 dates done** (2nd at a pizza place, felt "ok", no hug at goodbye). Silence since Diwali. Next: restart with the Diwali + "4 places left on your list" + bowling text; plan an active 3rd date; initiate a hug at the end. |
 | **Dhriti** | Works at **JP Morgan Chase** (data architect). Left a job without a backup. Funny one who takes care of her friends; emotionally intelligent. | Opener: "plot twist" line |
 | **Kinjal** | Murder mystery / Bollywood / period drama podcast prompt; passenger princess on long drives; loves listening. | Opener: "which episode first?" |
 | **Moksha** | Hates horror but loves psychological thrillers; never tried dabeli; loves dogs, aliens, galaxies, travel. | Opener: horror vs thrillers. Save dabeli for the date ask. |
