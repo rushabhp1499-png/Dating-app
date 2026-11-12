@@ -36,6 +36,7 @@ This repo is Rushabh's dating wingman workspace. Read this first in every sessio
 - Use Cialdini (similarity/liking, reciprocity), Voss (labels, calibrated how/what questions), Phil Jones (low-pressure framing) naturally. Never make an opener sound salesy or manipulative.
 - Keep it honest; don't invent facts about him.
 - Push conversations toward a date within ~8–12 messages.
+- **Style preference:** openers must be either **super witty or super flirty**, never in-between. Current default: **super flirty**. Keep it short; skip long explanations.
 
 ## Partner preferences
 - Religion and community matter to him and his family. Looking for **Gujarati** girls.
