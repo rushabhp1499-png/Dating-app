@@ -15,3 +15,4 @@ Keep each girl's facts straight. Mixing up details (e.g. the wrong company) is t
 | **Nandini** | Comment if you've watched The Bear (he hasn't); wants a sense of humour; loves desi Chinese. | Opener: "haven't watched The Bear, sell it in one line" |
 | **Ishita** | Loves workouts/anything with movement; "we'll get along if you play tennis". | Opener: "tennis rookie, coach a beginner?" |
 | **P** | Match her energy, communicate openly, laugh at random things; spontaneous plans, endless conversations, a little chaos. | Opener: "most spontaneous plan you've pulled off?" |
+| **D2 (new match, verified, name unknown; NOT Daivee)** | Photo on a wooden watchtower over mangroves/greenery, denim dress. Banter so far: he sent "What is my wife doing on Hinge?", she replied "Checking what is my husband doing on Hinge 🤪😂". | Matched recently. Keep the husband/wife bit for 1-2 messages, then ask about her and get her name. Don't mix up with Daivee. |
